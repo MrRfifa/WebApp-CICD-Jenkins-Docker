@@ -2,10 +2,6 @@ This is a sample Web Application to use during Continuous Integration demos.
 
 #Build Instruction
 
-#Just testing the webhook
-
-
-
 ```
 mvn3 clean package
 ```
